@@ -3,7 +3,7 @@
 <param ve-config 
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
-       banner="/images/IMG_1257 - Copy (2).JPG" 
+       banner="https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/Medieval-Beasts/images/IMG_1257 - Copy (2).JPG" 
        layout="vertical"
        num-maps="3"
        num-images="10">
