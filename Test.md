@@ -3,7 +3,7 @@
 <param ve-config 
        title="Herbarius or Herbarium Apuleii Platonici"
        author="Pseudo-Apuleius"
-       banner="/images/IMG_1266 (3).JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/30/Satyrion_etc_Ps-Ap_Ashmole_1431_ms_9v_10r.jpg" 
        layout="vertical"
        num-maps="3"
        num-images="10">
