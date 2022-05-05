@@ -3,7 +3,7 @@
 <param ve-config 
        title="Herbarius or Herbarium Apuleii Platonici"
        author="Pseudo-Apuleius"
-       banner="https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/Medieval-Beasts/images/IMG_1257 - Copy (2).JPG" 
+       banner="/images/IMG_1266 (3).JPG" 
        layout="vertical"
        num-maps="3"
        num-images="10">
