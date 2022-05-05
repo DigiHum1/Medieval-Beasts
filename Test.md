@@ -23,12 +23,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet ni
        license="CC BY 4.0"
        url="https://raw.githubusercontent.com/Medieval-Beasts/images/IMG_1257 - Copy (2).JPG">
        
-Again, with not much known about the courtship between the lovers, we can speculate that they met through Elizabeth’s taxidermist brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James's Church, Piccadilly [^1].
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet nibh et ullamcorper. Curabitur consectetur placerat quam vitae ultrices. Sed tincidunt erat ligula, quis ultricies neque tincidunt a. Aliquam cursus, enim sed laoreet porta, nisi magna mollis elit, vitae cursus sapien mi ac nulla. Curabitur pellentesque dictum varius. Integer nec scelerisque erat. Nullam mollis vel justo et dapibus. Donec imperdiet arcu urna, non elementum nisi cursus ac. Maecenas fermentum volutpat quam, laoreet malesuada sapien placerat vel. Nunc interdum ipsum ac lacus ullamcorper elementum nec in dui. Proin scelerisque, erat vel dictum sodales, tortor justo iaculis odio, ac aliquet felis neque aliquet nulla. Curabitur varius, massa id consequat venenatis, est ante venenatis ligula, efficitur pharetra tortor nisi non velit. Donec maximus a turpis at egestas. Quisque semper eget lacus in placerat. Pellentesque porta porttitor bibendum. Quisque tincidunt metus ut sapien sagittis, nec fermentum massa blandit.
 <param ve-image 
        region="-100,-80,1200,936"
-       title="The Governess" 
+       title="Page x" 
        description="Painted by Rebecca Solomon, c. 1851" 
-       attribution="Jewish Women's Archive (https://jwa.org/media/rebecca-solomon-governess)"
+       attribution="Who illuminated this"
        license="public domain"
        url="/images/IMG_1257 - Copy (2).JPG">
 
