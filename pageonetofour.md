@@ -19,7 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet ni
 **Page 2**   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet nibh et ullamcorper. Curabitur consectetur placerat quam vitae ultrices. Sed tincidunt erat ligula, quis ultricies neque tincidunt a. Aliquam cursus, enim sed laoreet porta, nisi magna mollis elit, vitae cursus sapien mi ac nulla. Curabitur pellentesque dictum varius. Integer nec scelerisque erat. Nullam mollis vel justo et dapibus. Donec imperdiet arcu urna, non elementum nisi cursus ac. Maecenas fermentum volutpat quam, laoreet malesuada sapien placerat vel. Nunc interdum ipsum ac lacus ullamcorper elementum nec in dui. Proin scelerisque, erat vel dictum sodales, tortor justo iaculis odio, ac aliquet felis neque aliquet nulla. Curabitur varius, massa id consequat venenatis, est ante venenatis ligula, efficitur pharetra tortor nisi non velit. Donec maximus a turpis at egestas. Quisque semper eget lacus in placerat. Pellentesque porta porttitor bibendum. Quisque tincidunt metus ut sapien sagittis, nec fermentum massa blandit.
 <param ve-image 
-       region="-100,-80,1200,936"
        title="Page 2" 
        description="Pseudo-Apuleius" 
        attribution="Who illuminated this"
@@ -29,7 +28,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet ni
 **Page 3**   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet nibh et ullamcorper. Curabitur consectetur placerat quam vitae ultrices. Sed tincidunt erat ligula, quis ultricies neque tincidunt a. Aliquam cursus, enim sed laoreet porta, nisi magna mollis elit, vitae cursus sapien mi ac nulla. Curabitur pellentesque dictum varius. Integer nec scelerisque erat. Nullam mollis vel justo et dapibus. Donec imperdiet arcu urna, non elementum nisi cursus ac. Maecenas fermentum volutpat quam, laoreet malesuada sapien placerat vel. Nunc interdum ipsum ac lacus ullamcorper elementum nec in dui. Proin scelerisque, erat vel dictum sodales, tortor justo iaculis odio, ac aliquet felis neque aliquet nulla. Curabitur varius, massa id consequat venenatis, est ante venenatis ligula, efficitur pharetra tortor nisi non velit. Donec maximus a turpis at egestas. Quisque semper eget lacus in placerat. Pellentesque porta porttitor bibendum. Quisque tincidunt metus ut sapien sagittis, nec fermentum massa blandit.
 <param ve-image 
-       region="-100,-80,1200,936"
        title="Page 3" 
        description="Pseudo-Apuleius" 
        attribution="Who illuminated this"
@@ -39,7 +37,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet ni
 **Page 4**   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet nibh et ullamcorper. Curabitur consectetur placerat quam vitae ultrices. Sed tincidunt erat ligula, quis ultricies neque tincidunt a. Aliquam cursus, enim sed laoreet porta, nisi magna mollis elit, vitae cursus sapien mi ac nulla. Curabitur pellentesque dictum varius. Integer nec scelerisque erat. Nullam mollis vel justo et dapibus. Donec imperdiet arcu urna, non elementum nisi cursus ac. Maecenas fermentum volutpat quam, laoreet malesuada sapien placerat vel. Nunc interdum ipsum ac lacus ullamcorper elementum nec in dui. Proin scelerisque, erat vel dictum sodales, tortor justo iaculis odio, ac aliquet felis neque aliquet nulla. Curabitur varius, massa id consequat venenatis, est ante venenatis ligula, efficitur pharetra tortor nisi non velit. Donec maximus a turpis at egestas. Quisque semper eget lacus in placerat. Pellentesque porta porttitor bibendum. Quisque tincidunt metus ut sapien sagittis, nec fermentum massa blandit.
 <param ve-image 
-       region="-100,-80,1200,936"
        title="Page 4" 
        description="Pseudo-Apuleius" 
        attribution="Who illuminated this"
