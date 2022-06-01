@@ -13,7 +13,7 @@ Tiramisu jelly-o tiramisu chocolate bar dessert chocolate cake tiramisu jelly. C
        title="Page 5" 
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
-       license="public domain"
+       license="CC BY-NC-SA"
        url="/images/page5.jpg">
 
 **Page 6**   
@@ -22,7 +22,7 @@ Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée p
        title="Page 6" 
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
-       license="public domain"
+       license="CC BY-NC-SA"
        url="/images/Page2rotated.JPG" rotate="90">
        
 **Page 7**   
@@ -31,7 +31,7 @@ Halvah croissant sweet tiramisu soufflé tart lemon drops. Apple pie tiramisu br
        title="Page 7" 
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
-       license="public domain"
+       license="CC BY-NC-SA"
        url="/images/page7.jpg">
 
 **Page 8**   
@@ -40,7 +40,7 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
        title="Page 8" 
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
-       license="public domain"
+       license="CC BY-NC-SA"
        url="/images/IMG_1257 - Copy (2).JPG">
 
 [Next Pages](/Medieval-Beasts/pagesfivetoeight)
