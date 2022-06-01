@@ -12,7 +12,7 @@ Tiramisu jelly-o tiramisu chocolate bar dessert chocolate cake tiramisu jelly. C
 <param ve-image 
        title="Page 5" 
        description="Pseudo-Apuleius" 
-       attribution="Who illuminated this"
+       attribution="Alex Summers"
        license="public domain"
        url="/images/page5.jpg">
 
@@ -21,7 +21,7 @@ Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée p
 <param ve-image 
        title="Page 6" 
        description="Pseudo-Apuleius" 
-       attribution="Who illuminated this"
+       attribution="Alex Summers"
        license="public domain"
        url="/images/Page2rotated.JPG" rotate="90">
        
@@ -30,7 +30,7 @@ Halvah croissant sweet tiramisu soufflé tart lemon drops. Apple pie tiramisu br
 <param ve-image 
        title="Page 7" 
        description="Pseudo-Apuleius" 
-       attribution="Who illuminated this"
+       attribution="Alex Summers"
        license="public domain"
        url="/images/page7.jpg">
 
@@ -39,7 +39,7 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
 <param ve-image 
        title="Page 8" 
        description="Pseudo-Apuleius" 
-       attribution="Who illuminated this"
+       attribution="Alex Summers"
        license="public domain"
        url="/images/IMG_1257 - Copy (2).JPG">
 
