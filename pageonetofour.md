@@ -4,15 +4,12 @@
        title="Herbarius or Herbarium Apuleii Platonici"
        author="Pseudo-Apuleius"
        banner="https://upload.wikimedia.org/wikipedia/commons/3/30/Satyrion_etc_Ps-Ap_Ashmole_1431_ms_9v_10r.jpg" 
-       layout="vertical"
-       num-maps="3"
-       num-images="10">
+       layout="vertical">
 
 #
 **Page 1**   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis imperdiet nibh et ullamcorper. Curabitur consectetur placerat quam vitae ultrices. Sed tincidunt erat ligula, quis ultricies neque tincidunt a. Aliquam cursus, enim sed laoreet porta, nisi magna mollis elit, vitae cursus sapien mi ac nulla. Curabitur pellentesque dictum varius. Integer nec scelerisque erat. Nullam mollis vel justo et dapibus. Donec imperdiet arcu urna, non elementum nisi cursus ac. Maecenas fermentum volutpat quam, laoreet malesuada sapien placerat vel. Nunc interdum ipsum ac lacus ullamcorper elementum nec in dui. Proin scelerisque, erat vel dictum sodales, tortor justo iaculis odio, ac aliquet felis neque aliquet nulla. Curabitur varius, massa id consequat venenatis, est ante venenatis ligula, efficitur pharetra tortor nisi non velit. Donec maximus a turpis at egestas. Quisque semper eget lacus in placerat. Pellentesque porta porttitor bibendum. Quisque tincidunt metus ut sapien sagittis, nec fermentum massa blandit.
 <param ve-image 
-       region="-100,-80,1200,936"
        title="Page 1" 
        description="Pseudo-Apuleius" 
        attribution="Who illuminated this"
