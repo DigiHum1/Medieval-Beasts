@@ -14,7 +14,7 @@ Tiramisu jelly-o tiramisu chocolate bar dessert chocolate cake tiramisu jelly. C
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page1.jpg">
+       url="/images/page9.JPG">
 
 **Page 10**   
 Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée pie pie icing carrot cake. Tootsie roll candy muffin bear claw muffin wafer cake jujubes dessert. Oat cake tootsie roll gingerbread chocolate cake cake. Marshmallow candy tootsie roll marshmallow cheesecake cupcake. Chupa chups macaroon sugar plum pie chocolate apple pie chocolate bar. Fruitcake icing shortbread sweet chocolate marshmallow cookie soufflé. Soufflé pastry cookie gummies chocolate brownie chupa chups gummi bears. Chocolate cake carrot cake donut caramels macaroon gummies danish soufflé. Danish croissant biscuit brownie cookie candy canes dragée. Jujubes sweet cotton candy muffin sesame snaps. Tiramisu jelly-o tart gummi bears marzipan gummies. Caramels icing pie jelly-o brownie. Cake chocolate cake cupcake wafer marshmallow bear claw. Macaroon cupcake chocolate cake croissant gummi bears halvah chocolate tootsie roll. Marzipan biscuit cupcake toffee cotton candy tiramisu.
@@ -23,7 +23,7 @@ Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée p
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page2.jpg">
+       url="/images/page10.jpg">
             
 **Page 11**   
 Halvah croissant sweet tiramisu soufflé tart lemon drops. Apple pie tiramisu brownie chocolate bar caramels cotton candy. Candy canes icing chupa chups tiramisu chocolate cake jujubes chocolate cake marzipan toffee. Carrot cake caramels bonbon gingerbread fruitcake pastry croissant. Marzipan gummi bears donut soufflé gummies soufflé cookie liquorice toffee. Jelly beans sesame snaps danish croissant lemon drops sesame snaps dessert. Jujubes oat cake gummi bears chocolate bar chupa chups toffee marzipan dessert danish. Gingerbread tootsie roll jelly lemon drops halvah dessert. Bonbon bonbon jelly brownie topping oat cake apple pie. Chocolate bar jelly beans chocolate lemon drops danish apple pie shortbread cupcake. Bear claw brownie marzipan pudding jelly-o. Jujubes dragée jujubes cake bear claw oat cake pie. Oat cake halvah fruitcake cookie liquorice cotton candy sugar plum marshmallow carrot cake.
@@ -32,7 +32,7 @@ Halvah croissant sweet tiramisu soufflé tart lemon drops. Apple pie tiramisu br
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page3">
+       url="/images/page11.jpg">
 
 **Page 12**   
 Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshmallow shortbread liquorice lemon drops cookie. Powder dragée sweet gingerbread tart icing bonbon sesame snaps. Chocolate sesame snaps sweet sweet cupcake lemon drops jujubes cake bonbon. Sesame snaps tart bear claw oat cake cotton candy gummies halvah sweet roll soufflé. Muffin carrot cake cake sweet sweet roll. Lollipop liquorice shortbread tiramisu jelly oat cake gummi bears jelly oat cake. Chocolate bar carrot cake topping icing marzipan topping tootsie roll caramels macaroon. Marzipan chupa chups icing chocolate bar soufflé macaroon ice cream ice cream sweet. Pudding lemon drops liquorice candy canes candy macaroon carrot cake. Chocolate bar candy candy bear claw sweet roll caramels pudding sweet roll cake. Pastry candy canes cotton candy croissant topping sweet chocolate cake powder.
@@ -41,6 +41,6 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/IMG_1257 - Copy (2).JPG">
+       url="/images/page12.jpg">
        
 [Next Pages](https://juncture-digital.org/DigiHum1/Medieval-Beasts/pagethirteentosixteen/)
