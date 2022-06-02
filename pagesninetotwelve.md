@@ -14,7 +14,7 @@ Tiramisu jelly-o tiramisu chocolate bar dessert chocolate cake tiramisu jelly. C
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page9.JPG">
+       url="/images/page9.jpg">
 
 **Page 10**   
 Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée pie pie icing carrot cake. Tootsie roll candy muffin bear claw muffin wafer cake jujubes dessert. Oat cake tootsie roll gingerbread chocolate cake cake. Marshmallow candy tootsie roll marshmallow cheesecake cupcake. Chupa chups macaroon sugar plum pie chocolate apple pie chocolate bar. Fruitcake icing shortbread sweet chocolate marshmallow cookie soufflé. Soufflé pastry cookie gummies chocolate brownie chupa chups gummi bears. Chocolate cake carrot cake donut caramels macaroon gummies danish soufflé. Danish croissant biscuit brownie cookie candy canes dragée. Jujubes sweet cotton candy muffin sesame snaps. Tiramisu jelly-o tart gummi bears marzipan gummies. Caramels icing pie jelly-o brownie. Cake chocolate cake cupcake wafer marshmallow bear claw. Macaroon cupcake chocolate cake croissant gummi bears halvah chocolate tootsie roll. Marzipan biscuit cupcake toffee cotton candy tiramisu.
