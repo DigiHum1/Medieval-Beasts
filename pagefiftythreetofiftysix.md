@@ -43,4 +43,4 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
        license="CC BY-NC-SA"
        url="/images/page56.jpg">
        
-[Next Pages](https://juncture-digital.org/DigiHum1/Medieval-Beasts/pagetwentyninetothirtytwo/)
+[Next Pages](https://juncture-digital.org/DigiHum1/Medieval-Beasts/pagefiftyseventosixty/)
