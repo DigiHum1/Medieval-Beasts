@@ -41,7 +41,7 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page32.JPG">
+       url="/images/page32.jpg">
        
 [Next Pages](https://juncture-digital.org/DigiHum1/Medieval-Beasts/pagethritythreetothirtysix/)
 
