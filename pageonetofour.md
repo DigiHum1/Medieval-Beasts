@@ -23,7 +23,7 @@ Bonbon tootsie roll ice cream gummies brownie carrot cake cake muffin. Dragée p
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page2.jpg">
+       url="/images/page2.JPG">
             
 **Page 3**   
 Halvah croissant sweet tiramisu soufflé tart lemon drops. Apple pie tiramisu brownie chocolate bar caramels cotton candy. Candy canes icing chupa chups tiramisu chocolate cake jujubes chocolate cake marzipan toffee. Carrot cake caramels bonbon gingerbread fruitcake pastry croissant. Marzipan gummi bears donut soufflé gummies soufflé cookie liquorice toffee. Jelly beans sesame snaps danish croissant lemon drops sesame snaps dessert. Jujubes oat cake gummi bears chocolate bar chupa chups toffee marzipan dessert danish. Gingerbread tootsie roll jelly lemon drops halvah dessert. Bonbon bonbon jelly brownie topping oat cake apple pie. Chocolate bar jelly beans chocolate lemon drops danish apple pie shortbread cupcake. Bear claw brownie marzipan pudding jelly-o. Jujubes dragée jujubes cake bear claw oat cake pie. Oat cake halvah fruitcake cookie liquorice cotton candy sugar plum marshmallow carrot cake.
@@ -41,6 +41,6 @@ Pie marshmallow chocolate marzipan ice cream marshmallow. Dragée dragée marshm
        description="Pseudo-Apuleius" 
        attribution="Alex Summers"
        license="CC BY-NC-SA"
-       url="/images/page4.jpg">
+       url="/images/page4.JPG">
        
 [Next Pages](https://juncture-digital.org/DigiHum1/Medieval-Beasts/pagefivetoeight/)
